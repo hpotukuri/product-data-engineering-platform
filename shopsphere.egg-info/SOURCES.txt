@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+./src/__init__.py
+./src/common/__init__.py
+./src/common/constants.py
+./src/common/file_reader.py
+./src/common/logger.py
+shopsphere.egg-info/PKG-INFO
+shopsphere.egg-info/SOURCES.txt
+shopsphere.egg-info/dependency_links.txt
+shopsphere.egg-info/requires.txt
+shopsphere.egg-info/top_level.txt
